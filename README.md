@@ -1,12 +1,24 @@
-## CONCEPTUAL_SPECTROSCOPY:
+## "CONCEPT_SPECTROSCOPY" as conceptual spectroscopy,
 
-Project for Google Hackathon on KAGGLE for Gemma 4!
+Project for Google Hackathon on KAGGLE for Gemma 4 Good!
 
-It is the METACOGNITIVE_CONCEPTUALIZER.
+It is a METACOGNITIVE_CONCEPTUALIZER on KAGGLE!
 
 A 3D instrument for visualizing AI!
 
-> Also a NOVEL USER INTERFACE to SHOWCASE actual_extra_abilities of Google Gemma 4!
+AI Code Generated - with Google Gemini!
+
+THREE NOVEL VISUALIZATION MODALITIES, in three.js + HTML + LiteRT + .task GEMMA: 
+
+1. "CONCEPT_NUCLEUS"
+
+2. "CONCEPT_TREES"
+
+3. "CONCEPT_TIMELINE"
+   
+> LEVEL 4 FRONTIER INNOVATION.
+
+> NOVEL light-weight UI to SHOWCASE "extra_ability" of Google Gemma 4!
 
 _____
 
@@ -16,11 +28,13 @@ Pronounced : "ahh + tellect + ahh + scope + eee + ahh"!
 
 > aTELLECTaSCOPEa - is an open-source 3D VISUALIZATION of embed space. 
 
+It's been around for awhile.
+
 _________________________
 
 ### FOCUS
 
-> With FOCUS on "MECHANISTIC INTERPRETABILITY" and SEMANTIC_SPECTROSCOPY!
+> FOCUS, on "MECHANISTIC INTERPRETABILITY" and "CONCEPT_SPECTROSCOPY"!
 
 ________________________
 
